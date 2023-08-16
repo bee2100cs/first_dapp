@@ -1,2 +1,2 @@
-# first_dapp
-A simple dapp deployed on the Goerli testnet
+# Mood-Dapp
+A simple dapp deployed on the Sepolia testnet
