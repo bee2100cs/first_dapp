@@ -1,2 +1,2 @@
 # first_dapp
-A simple dapp deployed on the Goerli testnet
+A simple dapp deployed on the Sepolia testnet
